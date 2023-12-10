@@ -3,6 +3,7 @@
 ## List
 
 - [x] MIT Missing-Semester
+- [x] AUT AP-1400 
 - [x] CMU 15-445
 - [ ] CMU 15-721
 - [ ] CalTech CS122
