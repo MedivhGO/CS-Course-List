@@ -15,4 +15,4 @@
 - [ ] Stanford CS144 Computer Network
 - [ ] NJU Software Analysis
 - [ ] UCB CS61A Structure and Interpretation of Computer Programs
-- [ ] WUSTL CSE 523s [Advanced Multi-Paradigm Software Development](https://www.cse.wustl.edu/~cdgill/courses/cse532/#Course%20Description)
+- [ ] WUSTL CSE 523s [C++ Advanced Multi-Paradigm Software Development](https://www.cse.wustl.edu/~cdgill/courses/cse532/#Course%20Description)
