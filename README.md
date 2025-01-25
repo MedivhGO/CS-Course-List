@@ -16,3 +16,4 @@
 - [ ] UCB CS61A [Structure and Interpretation of Computer Programs](https://www.learncs.site/docs/curriculum-resource/cs61a)
 - [x] AUT AP-1400 [C++ Advanced Programming Course](https://github.com/courseworks)
 - [ ] WUSTL CSE 523s [C++ Advanced Multi-Paradigm Software Development](https://www.cse.wustl.edu/~cdgill/courses/cse532/#Course%20Description)
+- [ ] Haskell MOOC [Hasekll](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Functional/Haskell-MOOC/#_1)
