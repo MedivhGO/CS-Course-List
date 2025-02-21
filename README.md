@@ -1,6 +1,6 @@
 # CS Course List
 
-- [x] MIT Missing-Semester [link](https://missing.csail.mit.edu/2020/)
+- [x] MIT Missing-Semester [Missing Semester](https://missing.csail.mit.edu/2020/)
 - [ ] MIT 6.828 [Operating System Engineering](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
 - [ ] MIT 6.824 [Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [ ] CMU 15-213 [Introduction to Computer Systems](http://www.cs.cmu.edu/~./213/)
