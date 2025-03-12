@@ -17,4 +17,4 @@
 - [x] AUT AP-1400 [C++ Advanced Programming Course](https://github.com/courseworks)
 - [ ] WUSTL CSE 523s [C++ Advanced Multi-Paradigm Software Development](https://www.cse.wustl.edu/~cdgill/courses/cse532/#Course%20Description)
 - [ ] UPENN CIS 194 [Introduction to Haskell](https://www.cis.upenn.edu/~cis1940/fall16/index.html)
-- [ ] SIT\£»Stevens CS631 [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
+- [ ] SIT Stevens CS631 [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
